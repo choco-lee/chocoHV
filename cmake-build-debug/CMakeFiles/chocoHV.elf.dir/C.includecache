@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/lee/code/chocoHV/src/bsp/rasp4/io.c
+
+/home/lee/code/chocoHV/src/bsp/rasp4/io.h
+
+/home/lee/code/chocoHV/src/bsp/rasp4/kernel.c
+io.h
+/home/lee/code/chocoHV/src/bsp/rasp4/io.h
+
