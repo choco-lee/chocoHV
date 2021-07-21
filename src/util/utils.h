@@ -1,8 +1,8 @@
 #ifndef CHOCOHV_UTILS_H
 #define CHOCOHV_UTILS_H
-
-extern void delay ( unsigned long);
-extern void put32 ( unsigned long, unsigned int );
-extern unsigned long get32 ( unsigned long );
+#include "type.h"
+extern void delay (uint32_t);
+extern void mmio_write32 (uint32_t, uint32_t);
+extern uint32_t mmio_read32 (uint32_t);
 
 #endif //CHOCOHV_UTILS_H

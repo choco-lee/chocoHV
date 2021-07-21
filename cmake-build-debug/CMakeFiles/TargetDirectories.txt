@@ -1,3 +1,0 @@
-/home/lee/code/chocoHV/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/lee/code/chocoHV/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/lee/code/chocoHV/cmake-build-debug/CMakeFiles/chocoHV.elf.dir
